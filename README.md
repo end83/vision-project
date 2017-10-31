@@ -1,2 +1,3 @@
 # vision-project
-Object Detection
+Object Detection using machine learning
+
